@@ -7,6 +7,7 @@ int main()
 	ViewMyClass();
 	ViewStudent();
 	ViewDemoClass();
+	ViewPropertiesClass();
 	system("pause");
 	return 0;
 }

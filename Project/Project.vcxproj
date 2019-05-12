@@ -118,12 +118,14 @@
     <ClCompile Include="DemoClass.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MyClass.cpp" />
+    <ClCompile Include="PropertiesClass.cpp" />
     <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DemoClass.h" />
     <ClInclude Include="Interface.h" />
     <ClInclude Include="MyClass.h" />
+    <ClInclude Include="PropertiesClass.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
